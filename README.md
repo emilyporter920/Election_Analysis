@@ -55,6 +55,8 @@ All data listed above has been printed into a text file, seen below in **Figure 
 
     Winning Percentage: 73.8%
 
+<br/>
+
 <p align="center">
   <img 
     width="500"
