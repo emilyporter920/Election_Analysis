@@ -104,4 +104,8 @@ Below in **Figure 1.2** is an example of how candidates votes and county votes w
 ## Election-Audit Summary
 * The code written above found in the PyPoll_Challenge.py file can be used for any congressional election to find all of the following data above
 
+<<<<<<< HEAD
 * As stated above, this script can be modified to show both state and local level election results by changing the file loaded to the desired data.
+=======
+* As stated above, this script can be modified to show both state and local level election results by changing the file loaded to the desired data.
+>>>>>>> c9779d9d200865528b0c195c265a6392bfd3aeab
